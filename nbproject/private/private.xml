@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Apache24/htdocs/routes/web.php</file>
+            <file>file:/C:/Apache24/htdocs/resources/views/home.blade.php</file>
+            <file>file:/C:/Apache24/htdocs/composer.json</file>
+            <file>file:/C:/Apache24/htdocs/app/Providers/AuthServiceProvider.php</file>
+            <file>file:/C:/Apache24/htdocs/app/Providers/AppServiceProvider.php</file>
+            <file>file:/C:/Apache24/htdocs/app/Internacao.php</file>
+            <file>file:/C:/Apache24/htdocs/app/Role.php</file>
+            <file>file:/C:/Apache24/htdocs/resources/views/pa/paDataCollect.blade.php</file>
+            <file>file:/C:/Apache24/htdocs/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/Apache24/htdocs/app/Permission.php</file>
+            <file>file:/C:/Apache24/htdocs/app/Http/Controllers/pa/PaController.php</file>
+            <file>file:/C:/Apache24/htdocs/app/User.php</file>
+            <file>file:/C:/Apache24/htdocs/resources/views/pa/internacoesAlterar.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
